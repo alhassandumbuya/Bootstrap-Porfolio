@@ -1,0 +1,22 @@
+.alhassannav{
+    background-image: url(../images/Alhassan.JPG);
+    height: 900px;
+}
+.navbar{
+    background-color: transparent !important; 
+}
+
+.navbar .navbar-brand{
+    color: rgb(6, 106, 106);
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.navbar .navbar-nav{
+    margin: 0 auto;
+    color: white !important;
+}
+
+.nav-item{
+    background-color: rgb(6, 106, 106);
+}
