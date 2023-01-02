@@ -1,6 +1,6 @@
 .alhassannav{
     background-image: url(../images/Alhassan.JPG);
-    height: 400px;
+    height: 1000px;
 }
 
 .alhassannav
@@ -25,4 +25,33 @@
 
 nav a{
     color: white !important;
+}
+
+.jumbotron {
+    background-color: transparent !important;
+    margin: 0;
+    padding: 0;
+    font: inherit;
+}
+
+.container {
+    background-color: aqua;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#about-me .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-top: 5rem;
+    min-height: 50vh;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
