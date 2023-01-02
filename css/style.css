@@ -35,10 +35,11 @@ nav a{
 }
 
 .container {
-    background-color: aqua;
+    background-color: rgb(6, 106, 106);
     padding: 0 0 !important;
     /* max-width: 1100px; 
     margin: 0 auto; */
+   
 }
 
 #about-me .container {
@@ -50,6 +51,11 @@ nav a{
     min-height: 50vh;
     
 }
+
+.btn {
+    background-color: transparent !important;
+}
+
 
 img {
     max-width: 100%;
