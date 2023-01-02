@@ -36,8 +36,9 @@ nav a{
 
 .container {
     background-color: aqua;
-    max-width: 1100px;
-    margin: 0 auto;
+    padding: 0 0 !important;
+    /* max-width: 1100px; 
+    margin: 0 auto; */
 }
 
 #about-me .container {
