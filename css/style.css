@@ -7,7 +7,6 @@ background-size: cover;
     
 }
 
-.alhassannav
 .navbar{
     background-color: transparent !important; 
 }
@@ -88,11 +87,19 @@ img {
     transition: 0.3s;
 }
 
-h2 {
+h2 h6 {
     font-size: 2.5rem;
     font-family: var(--header-font-family);
     margin-bottom: 1rem;
     text-align: center;
 }
 
-
+#contact-me .list-group {
+    background-color:rgb(6, 106, 106);;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 2rem;
+    margin-top: 5rem;
+    min-height: 50vh;
+}
